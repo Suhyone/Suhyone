@@ -1,0 +1,12 @@
+# Visual Studio / Build temp files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.obj
+*.pdb
+*.log
+
+# Windows thumbnail cache
+Thumbs.db
+ehthumbs.db
